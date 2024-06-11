@@ -22,7 +22,7 @@
 .skills .skills__content ul li .image-container {
   background-color: var(--white);
   padding: 2rem;
-  border-radius: 50%;
+  border-radius: 100%;
   width: 7rem;
   height: 7rem;
   display: flex;
